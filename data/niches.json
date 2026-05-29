@@ -1,22 +1,22 @@
 {
     "domain": "glamping.gggpick.com",
     "categories": [
-        "기저귀/위생",
-        "수유/이유식",
-        "심신안정/수면"
+        "감성 텐트",
+        "캠핑 조명",
+        "캠핑 화로대"
     ],
     "category_details": {
-        "기저귀/위생": {
-            "topic": "Diaper bags, wet wipe cases, diaper disposal bins.",
-            "role": "Parenting essential guide recommending top-rated Coupang glamping items."
+        "감성 텐트": {
+            "topic": "Bell tents, canvas tents, glamping equipment.",
+            "role": "Glamping lifestyle expert."
         },
-        "수유/이유식": {
-            "topic": "glamping bottle sterilizers, glamping food makers, high chairs.",
-            "role": "Infant nutrition marketing expert providing premium childcare product comparisons."
+        "캠핑 조명": {
+            "topic": "Camping lanterns, string lights, mood lamps.",
+            "role": "Outdoor lighting reviewer."
         },
-        "심신안정/수면": {
-            "topic": "Pacifiers, bouncers, sleep sound machines.",
-            "role": "Sleep training specialist selecting products with high-rated real reviews from parents."
+        "캠핑 화로대": {
+            "topic": "Fire pits, BBQ grills, firewood, camping stoves.",
+            "role": "Campfire cooking guide."
         }
     }
 }
