@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://glamping.gggpick.com/sitemap.xml
